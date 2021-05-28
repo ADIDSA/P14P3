@@ -1,0 +1,30 @@
+body{
+	background-color: lightyellow; 
+}
+
+h1{
+	font-family:  Cambria, "Hoefler Text", "Liberation Serif", Times;;
+	font-size:20px;
+	color:lightpink;
+	text-align:right;
+	font-style:  italic;
+}
+
+h2{
+	font-family:  Cambria, "Hoefler Text", "Liberation Serif", Times;;
+	font-size:40px;
+	color:lightblue;
+	text-align:center;
+	font-style:  italic;
+}
+input{
+	font-family:  Cambria, "Hoefler Text", "Liberation Serif", Times;;
+	font-size:15px;
+	color:lightblue;
+	text-align:center;
+	font-style:  italic;
+}
+
+}
+
+}
